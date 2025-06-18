@@ -80,7 +80,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/53be
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/9f1f90e1-163b-5c02-aae0-4b18ed0bb583/default_primary.mpd
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Info Updated: 18/06/2025" tvg-name="Info Updated: 18/06/2025" tvg-logo="https://www.dacast.com/wp-content/uploads/2020/03/video-on-demand-vod-platform.jpg" group-title="Info Updated: 18/06/2025",Info Updated: 18/06/2025
+#EXTINF:-1 type="movies" tvg-id="Info Updated: 18/06/2025" tvg-name="Info Updated: 18/06/2025" tvg-logo="https://www.dacast.com/wp-content/uploads/2020/03/video-on-demand-vod-platform.jpg" group-title="Info Updated: 18/06/2025",Info Updated: 18/06/2025
 https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd
 
 #EXTINF:-1 tvg-id="Kanchan Tirana" tvg-name="Kanchan Tirana" tvg-logo="https://image.tmdb.org/t/p/w500/ckadmVtQQvaW2VAE8sV61TILG89.jpg" group-title="Kelasik",Kanchan Tirana
