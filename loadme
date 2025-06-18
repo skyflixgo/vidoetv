@@ -80,7 +80,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/53be
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/9f1f90e1-163b-5c02-aae0-4b18ed0bb583/default_primary.mpd
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Info Updated: 19/02/2025" tvg-name="Info Updated: 19/02/2025" tvg-logo="https://www.dacast.com/wp-content/uploads/2020/03/video-on-demand-vod-platform.jpg" group-title="Info Updated: 19/02/2025",Info Updated: 19/02/2025
+#EXTINF:-1 tvg-id="Info Updated: 18/06/2025 -by SKPTV" tvg-name="Info Updated: 18/06/2025 -by SKPTV" tvg-logo="https://www.dacast.com/wp-content/uploads/2020/03/video-on-demand-vod-platform.jpg" group-title="Admin Info Updated: 18/06/2025 -by SKPTV",Info Updated: 18/06/2025 -by SKPTV
 https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd
 
 #EXTINF:-1 tvg-id="Kanchan Tirana" tvg-name="Kanchan Tirana" tvg-logo="https://image.tmdb.org/t/p/w500/ckadmVtQQvaW2VAE8sV61TILG89.jpg" group-title="Kelasik",Kanchan Tirana
@@ -7593,4 +7593,43 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/65cd
 #KODIPROP:inputstream.adaptive.license_key=c92bb2df47cd301a20859a997c935810:45f001f8975932eb67bacda99efa913b
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/fa1e17f4-8ed4-54d1-955f-347c8bb9a5ff/default_primary.mpd
 
+#EXTINF:-1 type="movies" movie_id="1043905" group-title="Netflix" tvg-name="Dirty Angels" tvg-logo="https://image.tmdb.org/t/p/w500/1y3TG8N8zwwMxqh0qzdyDs3IyCq.jpg", Dirty Angels 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=291307e9a5a253f18972cc22f2604610:d90a219cedff2dec2441b73abac99521
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/7b6aae1c-85be-5a54-8341-1eb0d555bc02/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="19167" group-title="Netflix" tvg-name="Second in Command" tvg-logo="https://image.tmdb.org/t/p/w500/3MlHO10nWkQkzO7B5BE9OCKjC7Z.jpg", Second in Command 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1297dce3efdd5da23dedc1bf7893810:947356f5af5c74759e8a49f9abd23575
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/132c12e1-acd3-5cb0-bc4a-d242d507d77e/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="333352" group-title="Netflix" tvg-name="Eye in the Sky" tvg-logo="https://image.tmdb.org/t/p/w500/xMY2XbaRtmto9LXwo83wnYRKN2U.jpg", Eye in the Sky 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a828acfdf33130c59f51b3d1177a6710:a4653e1d014feceb19a077a2755eff30
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/a3025b61-9fc2-5c30-8fa9-45d9f636298d/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="15860" group-title="Netflix" tvg-name="Dragon Tiger Gate" tvg-logo="https://image.tmdb.org/t/p/w500/qamxFxSDtxFk4WPOp5bOYroLqFa.jpg", Dragon Tiger Gate 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cba7dbe784eaf3d5c77266d2b682410:432c9686e9a90ba2415fc5fe9bcc33e7
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/7671fb59-1be9-5363-bd9e-5f95b6000a5d/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="660360" group-title="Netflix" tvg-name="Noryang: Deadly Sea" tvg-logo="https://image.tmdb.org/t/p/w500/sRvL19WMG883eFyfs3wBRxf6Vx0.jpg", Noryang: Deadly Sea 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee6a583ac67c5eb858312e8b3b097110:ed12c18f83592b589c5b2916b9b72564
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b2352b9d-dbe2-5fd8-834c-927c71658875/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="248376" group-title="Netflix" tvg-name="Once Upon a Time in Shanghai" tvg-logo="https://image.tmdb.org/t/p/w500/wcVpL3h2ElqHdi8gxpEY8A8HSnv.jpg", Once Upon a Time in Shanghai 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f254cfe5c28cf0cc435a2583fa103710:1527b5b0e4ac96a4c7bb2abf46ccb7f4
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/76a9a354-d3d6-5651-890b-149bd2161fad/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="856742" group-title="Netflix" tvg-name="Wolf Pack" tvg-logo="https://image.tmdb.org/t/p/w500/Aro3MZ5nK6RGEWfdOyZ5RK83Xk1.jpg", Wolf Pack 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead3a0b6e4ad4c973b85675679321f10:79a132a07f076c38d2b74225f5668f3d
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/3d352f63-11c3-51d8-9993-7711a20becea/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="660046" group-title="Netflix" tvg-name="Ponniyin Selvan: Part I" tvg-logo="https://image.tmdb.org/t/p/w500/zSNyZUeqDdii0doQ9970E90kCkb.jpg", Ponniyin Selvan: Part I 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca2e72da51be0c95b9127ce10f98d010:f8f30d9f7f35c5c995efd998552ff0de
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/286c4445-1d10-5beb-af40-26d16cc4504b/default_primary.mpd
 
