@@ -7633,3 +7633,27 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/3d35
 #KODIPROP:inputstream.adaptive.license_key=ca2e72da51be0c95b9127ce10f98d010:f8f30d9f7f35c5c995efd998552ff0de
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/286c4445-1d10-5beb-af40-26d16cc4504b/default_primary.mpd
 
+#EXTINF:-1 type="movies" movie_id="950387" group-title="Netflix" tvg-name="A Minecraft Movie" tvg-logo="https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg", A Minecraft Movie 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6189542ca01ff86133d491a8bce4be10:99b974d97e55581d23dd8e4466ea3405
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/4ea40ba7-969c-5155-95d1-18196e053289/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="426063" group-title="Netflix" tvg-name="Nosferatu" tvg-logo="https://image.tmdb.org/t/p/w500/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg", Nosferatu 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b02c0f49da2d944998ba485f429e8c10:0d853e1a25019b55ec9598f852576f17
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/c3c28619-c4b1-5927-9d0d-0010fd082c16/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="18785" group-title="Netflix" tvg-name="The Hangover" tvg-logo="https://image.tmdb.org/t/p/w500/A0uS9rHR56FeBtpjVki16M5xxSW.jpg", The Hangover 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5276259afc0b4490024eed9697284e10:8a7909e6829e8d76829f039818cd07ef
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/9b955460-8881-523c-903b-fa09360f945d/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="45243" group-title="Netflix" tvg-name="The Hangover Part II" tvg-logo="https://image.tmdb.org/t/p/w500/7sGkjqorTHkaHTz8Q4WWHj8JL9t.jpg", The Hangover Part II 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63b2f295fa0fce47f43a136e4283b110:c8d57dcf6d11e09453c037044ebe3b92
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/a7cc7dbe-996c-5e40-8eda-8769ff210209/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="109439" group-title="Netflix" tvg-name="The Hangover Part III" tvg-logo="https://image.tmdb.org/t/p/w500/vtxuPWkdllLNLVyGjKYa267ntuH.jpg", The Hangover Part III 2013
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76a84cac0103921db65a073b8f13a010:11b427fcae3623cfb4ed48652c7d5bbb
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/81bc6c68-a232-5143-9e4b-c2cc5b4de1ce/default_primary.mpd
