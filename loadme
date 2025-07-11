@@ -7657,3 +7657,8 @@ https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/a7cc7dbe-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=76a84cac0103921db65a073b8f13a010:11b427fcae3623cfb4ed48652c7d5bbb
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/81bc6c68-a232-5143-9e4b-c2cc5b4de1ce/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="1212017" group-title="Astro First -by skptv" tvg-name="Keluang Man" tvg-logo="https://image.tmdb.org/t/p/w500/xQC04vkAEkqzITmoa9DmIJwSCi7.jpg", Keluang Man 2025
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0fb9b45a5f20604f3e97c537bcc2fa10:95862daf9ce6025197c132bc60900dd2
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/83d08f64-0d44-52da-96ba-7189544ddf04/default_primary.mpd
