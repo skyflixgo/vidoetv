@@ -7762,3 +7762,43 @@ https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/bdfd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e21edbdc1bb261258b06ad82e5254610:ecf472a0d51d0857daeed486c6505ce9
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/62576f16-e574-5c4f-8988-4d6fd2ea9851/default_primary.mpd
+
+#EXTINF:-1 type="series" tv_id="211892" tvg-series-name="One Cent Thief" tvg-season-number="1" tvg-episode-number="1" group-title="One Cent Thief" tvg-name="The Root of All Evil" tvg-logo="https://image.tmdb.org/t/p/w500/bWVgfoLN0aOob3dfypr4J9fIyat.jpg", The Root of All Evil
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e10d47214616aaabb12c5d2724e5b510:466c80a3515cebcfa3738cdb85517c7c
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ca98ada9-d930-562a-b171-d579ed154789/default_primary.mpd
+
+#EXTINF:-1 type="series" tv_id="211892" tvg-series-name="One Cent Thief" tvg-season-number="1" tvg-episode-number="2" group-title="One Cent Thief" tvg-name="In the Belly of The Beast" tvg-logo="https://image.tmdb.org/t/p/w500/1S3fShJr6nwXSMpTwBWtl42E1Yt.jpg", In the Belly of The Beast
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3480bb3d2cbea29bd95ed2927295b10:f04ea32271321a205ef2e649601cdbaa
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/eba83f8f-1adf-5d43-98e8-d733d62407fc/default_primary.mpd
+
+#EXTINF:-1 type="series" tv_id="211892" tvg-series-name="One Cent Thief" tvg-season-number="1" tvg-episode-number="3" group-title="One Cent Thief" tvg-name="Every Thought A Prayer" tvg-logo="https://image.tmdb.org/t/p/w500/ifqDZ5PLmkcTjwhDJ99uweWU3SI.jpg", Every Thought A Prayer
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffdffcacd7807307d97f12c6781f9510:69d1403cdbba396a4e9495a6b9af28ed
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/466bee7a-5a72-5a1d-85af-49678d107321/default_primary.mpd
+
+#EXTINF:-1 type="series" tv_id="211892" tvg-series-name="One Cent Thief" tvg-season-number="1" tvg-episode-number="4" group-title="One Cent Thief" tvg-name="The Baby And The Thief" tvg-logo="https://image.tmdb.org/t/p/w500/inxgpKkjWXiBDdr0Vysm6Bwms43.jpg", The Baby And The Thief
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c4e1f8443de7ee8ac8c583bb39a5e710:683008fcc1033c1163efa8a348a99511
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/54b08367-eea5-5b85-9a74-2e2b383404f4/default_primary.mpd
+
+#EXTINF:-1 type="series" tv_id="211892" tvg-series-name="One Cent Thief" tvg-season-number="1" tvg-episode-number="5" group-title="One Cent Thief" tvg-name="Destroyer of Worlds" tvg-logo="https://image.tmdb.org/t/p/w500/gZ6UYAmxUEiT0aEE62f7wC4DvVo.jpg", Destroyer of Worlds
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45b79c31edc39aacb9521d5a82121110:4181899ac0bf76a1de385d479710de36
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/6de8d3bb-2b3f-51d9-8f85-53ab4149d3f9/default_primary.mpd
+
+#EXTINF:-1 type="series" tv_id="211892" tvg-series-name="One Cent Thief" tvg-season-number="1" tvg-episode-number="6" group-title="One Cent Thief" tvg-name="What Money Can't Buy" tvg-logo="https://image.tmdb.org/t/p/w500/gZ6UYAmxUEiT0aEE62f7wC4DvVo.jpg", What Money Can't Buy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8244a2207107443488c6a95d13d06810:261d13bde3aa4f7278ac0859fbf1c1c3
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d42048d4-4b8b-5e5c-87b2-64d85aae5f07/default_primary.mpd
+
+#EXTINF:-1 type="series" tv_id="211892" tvg-series-name="One Cent Thief" tvg-season-number="1" tvg-episode-number="7" group-title="One Cent Thief" tvg-name="Sacrifice" tvg-logo="https://image.tmdb.org/t/p/w500/gZ6UYAmxUEiT0aEE62f7wC4DvVo.jpg", Sacrifice
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2aa18cc725b39952a1544777c81cb310:44622f2135e7c248ab82b6b7e83d26f9
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e33adebe-b0b8-55c7-ace4-738ab626a313/default_primary.mpd
+
+#EXTINF:-1 type="series" tv_id="211892" tvg-series-name="One Cent Thief" tvg-season-number="1" tvg-episode-number="8" group-title="One Cent Thief" tvg-name="Digital Karma" tvg-logo="https://image.tmdb.org/t/p/w500/gZ6UYAmxUEiT0aEE62f7wC4DvVo.jpg", Digital Karma
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a38b263cf4a78ea8bd6dd8fac3f59210:c68c5ea9927354e5d471fda2310e9fe9
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2fd9dcfe-b5da-5b41-ae59-76ff6ca3023b/default_primary.mpd
