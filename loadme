@@ -7662,3 +7662,103 @@ https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/81bc6c68-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0fb9b45a5f20604f3e97c537bcc2fa10:95862daf9ce6025197c132bc60900dd2
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/83d08f64-0d44-52da-96ba-7189544ddf04/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="744" group-title="Astro Tom Cruise" tvg-name="Top Gun" tvg-logo="https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg", Top Gun 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bd7dc0e117a5cdbf09730f93247bc10:41ff1f24801f2cf8a05aec0b15f0b3c3
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/8bca85d2-3197-5bd7-8f28-0fbdba5d1010/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="361743" group-title="Astro Tom Cruise" tvg-name="Top Gun: Maverick" tvg-logo="https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg", Top Gun: Maverick 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=363f3b7ab2b76a9049ba56bacf105d10:c3014aecb9026642a686179dc89fb3cc
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/96ee984c-409d-5ba7-9433-52d8f503bc4e/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="9390" group-title="Astro Tom Cruise" tvg-name="Jerry Maguire" tvg-logo="https://image.tmdb.org/t/p/w500/lABvGN7fDk5ifnwZoxij6G96t2w.jpg", Jerry Maguire 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=67f20212383344470a2cfc6af7ea0110:c933a80c97ad79d8fb33f47c7f65575a
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/5a295a18-c888-50c2-8578-4eaea449ea19/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="1903" group-title="Astro Tom Cruise" tvg-name="Vanilla Sky" tvg-logo="https://image.tmdb.org/t/p/w500/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg", Vanilla Sky 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6eb8ab5da5dee3b0c0f2e829b96d7f10:66ba3d224a8b040df19e67cc4b3d43ef
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/b0610d45-edfb-5e4b-a04e-73c1b06c58c6/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="75780" group-title="Astro Tom Cruise" tvg-name="Jack Reacher" tvg-logo="https://image.tmdb.org/t/p/w500/uQBbjrLVsUibWxNDGA4Czzo8lwz.jpg", Jack Reacher 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=893b6f37613c1467ca559154bf631a10:9394548599784d774c1802e14f1b98d3
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/4a43ae1d-e9d1-527c-ae5b-4d3bdcca2546/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="343611" group-title="Astro Tom Cruise" tvg-name="Jack Reacher: Never Go Back" tvg-logo="https://image.tmdb.org/t/p/w500/cOg3UT2NYWHZxp41vpxAnVCOC4M.jpg", Jack Reacher: Never Go Back 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fd2cb15cc61179a9d1331e95a39c010:731a7f80e4891993045040a8390656ce
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/0885275d-198c-51df-925b-edd9b9ac43f7/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="180" group-title="Astro Tom Cruise" tvg-name="Minority Report" tvg-logo="https://image.tmdb.org/t/p/w500/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg", Minority Report 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a47ada46637bcc2b5e2ce90f6743610:e5b1370d1b104cd85f11bd856bad9ba0
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/a30f08d7-e324-5551-a404-b9e6003c5862/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="74" group-title="Astro Tom Cruise" tvg-name="War of the Worlds" tvg-logo="https://image.tmdb.org/t/p/w500/6Biy7R9LfumYshur3YKhpj56MpB.jpg", War of the Worlds 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a04d19f7bb751e014248a35e31bcb10:19ff474740e72ed1b665985f08f0427e
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/7f9c8d98-55dd-5eae-8c4c-d6c209ef978c/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="954" group-title="Astro Tom Cruise" tvg-name="Mission: Impossible" tvg-logo="https://image.tmdb.org/t/p/w500/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg", Mission: Impossible 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0123ac9436066b72c790d7a8409e5310:d6a380de5aeb13c5df5cc9c3dcb4cb3d
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/540aec8e-2b66-5a23-99db-5645198df485/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="177677" group-title="Astro Tom Cruise" tvg-name="Mission: Impossible - Rogue Nation" tvg-logo="https://image.tmdb.org/t/p/w500/jwqL7croP7JMVfz0l9o7V4yJsJO.jpg", Mission: Impossible - Rogue Nation 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce85f77ea93120c5919e442d02096310:2713155abc1d7ddca88a341308871058
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/72cbdbf3-4dd5-5338-9285-1c9d42c41ade/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="956" group-title="Astro Tom Cruise" tvg-name="Mission: Impossible III" tvg-logo="https://image.tmdb.org/t/p/w500/vKGYCpmQyV9uHybWDzXuII8Los5.jpg", Mission: Impossible III 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55d1a64dc70a68e748820d55f19dca10:d73b54909a94fd86aca025099c991e84
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/23e7e273-5df5-595c-ad5c-fffd1bbc1094/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="56292" group-title="Astro Tom Cruise" tvg-name="Mission: Impossible - Ghost Protocol" tvg-logo="https://image.tmdb.org/t/p/w500/eRZTGx7GsiKqPch96k27LK005ZL.jpg", Mission: Impossible - Ghost Protocol 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=445cf4571642320a0821d0905dbc9b10:3187b918fb972749fc9465282674b304
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/41747bb2-8bbe-58b9-9d4d-db2665574747/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="955" group-title="Astro Tom Cruise" tvg-name="Mission: Impossible II" tvg-logo="https://image.tmdb.org/t/p/w500/hfnrual76gPeNFduhD4xzHWpfTw.jpg", Mission: Impossible II 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd3c14625d495737eb59b806389d9710:e8f522cf6e40acfe1369fff31606dfcc
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/9ab62bd3-e002-5021-957b-2508952d876d/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="353081" group-title="Astro Tom Cruise" tvg-name="Mission: Impossible - Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg", Mission: Impossible - Fallout 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9060978ff56ded2fc899f4d0c48c010:b7b96f15c75f242c0936d4cfe74d0bd9
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/0eac0e11-c2db-5646-a3c3-2d87badd17f9/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="137113" group-title="Astro Tom Cruise" tvg-name="Edge of Tomorrow" tvg-logo="https://image.tmdb.org/t/p/w500/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg", Edge of Tomorrow 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=440fbcb6c52b4ad60413a2e8d7b2c310:0959612fe3de8fc688932d7d88b006d0
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/f20b7fec-aff3-5a58-8217-8a6042febde4/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="628" group-title="Astro Tom Cruise" tvg-name="Interview with the Vampire" tvg-logo="https://image.tmdb.org/t/p/w500/2162lAT2MP36MyJd2sttmj5du5T.jpg", Interview with the Vampire 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=03b2c830920fb0df836331b008100110:318c9c29bac5d1149493e4604f7b6dd1
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/1f261543-5cdd-5ca5-80f9-525c19d9889c/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="380" group-title="Astro Tom Cruise" tvg-name="Rain Man" tvg-logo="https://image.tmdb.org/t/p/w500/iTNHwO896WKkaoPtpMMS74d8VNi.jpg", Rain Man 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a9cdf2236e73d76bbeb8750db43d710:c2408aaf62cb655b4b29bbc6869ef314
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/b565892c-b6e8-5f0b-bdbb-8ea84332bbe8/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="7446" group-title="Astro Tom Cruise" tvg-name="Tropic Thunder" tvg-logo="https://image.tmdb.org/t/p/w500/zAurB9mNxfYRoVrVjAJJwGV3sPg.jpg", Tropic Thunder 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40530a3e573b816977647163b95c2b10:1e22256723bd6f2db262ba53cf4d7ef8
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/1db0611c-2936-5527-b64e-753841db3aa3/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="1538" group-title="Astro Tom Cruise" tvg-name="Collateral" tvg-logo="https://image.tmdb.org/t/p/w500/nV5316WUsVij8sVXLCF1g7TFitg.jpg", Collateral 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db87468d0a92f5fd8edac4a9d37e8d10:d8d55c5654874cbef0cafcec0db92035
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/bdfd4607-57e8-5cd3-bd3f-daf8db95b8de/default_primary.mpd
+
+#EXTINF:-1 type="movies" movie_id="337170" group-title="Astro Tom Cruise" tvg-name="American Made" tvg-logo="https://image.tmdb.org/t/p/w500/23ILgoPSO5ShKcTZOuiTVfqFAUB.jpg", American Made 2017
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e21edbdc1bb261258b06ad82e5254610:ecf472a0d51d0857daeed486c6505ce9
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/62576f16-e574-5c4f-8988-4d6fd2ea9851/default_primary.mpd
